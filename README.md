@@ -1,6 +1,6 @@
-# UNIT 1 PROJECT - *Flixster*
+# UNIT 1,2 PROJECT - *Flixster*
 
-**Flixster** is an android app that show movie poster, movie title, movie overview
+**Flixster** is an android app that show movie poster, movie title, movie overview and trailer.
 
 Time spent: **2** hours spent in total
 
@@ -11,6 +11,9 @@ The following **required** functionality is completed:
 * [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.**
 * [x] Networking and Parsing JSON
 * [x] RecyclerView implementation
+* [x] Details Screen Implementation
+* [x] YoutubePlayerView
+
 
 The following **optional** features are implemented:
 
@@ -25,6 +28,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/wonkyjunky/Flixster/blob/master/walkthrough.gif' width='' alt='Video Walkthrough' />
+
+GIF created with [Peek](https://github.com/phw/peek/).
+
+<img src='https://github.com/wonkyjunky/Flixster/blob/master/walkthrough2.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [Peek](https://github.com/phw/peek/).
 
